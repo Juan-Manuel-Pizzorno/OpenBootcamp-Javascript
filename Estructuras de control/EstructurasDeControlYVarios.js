@@ -96,7 +96,6 @@ let Lista=[1,2,3,4,5,6,7,8,9];
 
 for(let i=0;i<Lista.length;i++){
    
-
     if(Lista[i]===3){
         continue;//vuelve nuevamente al for de arriba sin seguir el codigo para adelante
     }
