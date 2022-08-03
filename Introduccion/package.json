@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "node index.js",
+    "saludar":"node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Pizzo",
+  "license": "ISC"
+}
