@@ -1,2 +1,2 @@
-# OpenBootcamp-Javascript
-Crea un nuevo proyecto de Node, y dentro del package.json crea un script que muestre por pantalla "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo".
+# Curso de Javascript-OpenBootcamp-
+En estas carpetas ire poniendo códigos de ejemplos y ejercicios entregables acerca del curso de lenguaje de programación Javascript que fui realizando en OpenBootcamp
